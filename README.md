@@ -18,9 +18,9 @@ Ben bir yazılım geliştiriciyim ve donanım, gömülü sistemler ve otonom rob
 
 Burada, birkaç kişisel projemi görebilirsiniz:
 
-* **[Proje 1 Adı](https://github.com/OmerFaruk-Celik/Proje1):** 
-    * [Projenin kısa açıklaması]
-    * [Ekran Görüntüsü veya GIF Ekleyin] 
+* **[Proje 1 Adı](https://github.com/OmerFaruk-Celik/AMKS_AUV_ATILAY):** 
+    * [Su altı GPS sistemi]
+    
 * **[Proje 2 Adı](https://github.com/OmerFaruk-Celik/Proje2):** 
     * [Projenin kısa açıklaması] 
     * [Ekran Görüntüsü veya GIF Ekleyin]
