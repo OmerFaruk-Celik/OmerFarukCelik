@@ -21,12 +21,12 @@ Burada, birkaç kişisel projemi görebilirsiniz:
 * **[Proje 1 Adı](https://github.com/OmerFaruk-Celik/AMKS_AUV_ATILAY):** 
     * [Su altı GPS sistemi]
     
-* **[Proje 2 Adı](https://github.com/OmerFaruk-Celik/Proje2):** 
-    * [Projenin kısa açıklaması] 
-    * [Ekran Görüntüsü veya GIF Ekleyin]
+* **[Proje 2 Adı](https://github.com/OmerFaruk-Celik/repo):** 
+    * [Python ile otomatik commit programı] 
+
 * **[Proje 3 Adı](https://github.com/OmerFaruk-Celik/Proje3):** 
     * [Projenin kısa açıklaması]
-    * [Ekran Görüntüsü veya GIF Ekleyin]
+
 
 ## Tecrübelerim:
 
