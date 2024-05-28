@@ -1,6 +1,6 @@
 #  Merhaba! Ben Ömer Faruk Çelik 👋
 
-<img src="https://media.giphy.com/gifs/barkpost-barkpost-happy-wednesday-working-like-a-dog-eYilisUwipOEM" width="800" height="400">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdiNHF2cXhodGlqYXg1NmNtZ21pbWtsZjRkaDN3ZDB2ZGtseHE1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2WuHHWbGt3fY4/giphy.gif" width="800" height="400">
 
 Ben bir yazılım geliştiriciyim ve donanım, gömülü sistemler ve otonom robotlar alanlarına ilgi duyuyorum. 🚀 Her zaman yeni şeyler öğrenmek ve bu alanlarda kendimi geliştirmek için çaba sarf ediyorum. 
 
