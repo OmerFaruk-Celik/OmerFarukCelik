@@ -24,7 +24,7 @@ Burada, birkaç kişisel projemi görebilirsiniz:
 * **[Proje 2 Adı](https://github.com/OmerFaruk-Celik/repo):** 
     * [Python ile otomatik commit programı] 
 
-* **[Proje 3 Adı](https://github.com/OmerFaruk-Celik/Proje3):** 
+* **[Proje 3 Adı](https://github.com/OmerFaruk-Celik/FU_BM_DUYURULAR_BOT):** 
     * [Projenin kısa açıklaması]
 
 
