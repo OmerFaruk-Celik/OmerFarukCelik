@@ -53,8 +53,8 @@ Burada, birkaç kişisel projemi görebilirsiniz:
 
 Birlikte çalışmak veya yeni bir proje hakkında konuşmak isterseniz, lütfen bana ulaşmaktan çekinmeyin.
 
-**E-posta:** [eposta adresiniz]
-**[Diğer İletişim Bilgileriniz]**
+**E-posta:** [baycelikomer@gmail.com]
+
 
 ## **Yenilikçi Projeler İçin Hazırım!**
 
