@@ -11,7 +11,6 @@ Ben bir yazılım geliştiriciyim ve donanım, gömülü sistemler ve otonom rob
 * **Gömülü Sistemler:** ⚙️ Yazılımı donanıma entegre ederek gömülü sistemler geliştirme konusunda deneyim kazanıyorum. 
 * **Robot Teknolojileri:** 🤖 ROS (Robot Operating System) kullanarak otonom robotlar için yazılımlar geliştirmeyi öğreniyorum.
 * **Su Altı Sistemleri:** 🌊  Su altı konumlama sistemleri alanında çalışıyor ve bu konuda araştırma yaparak bilgi sahibi olmaya çalışıyorum.
-* **Web Geliştirme:** 🌐 HTML, CSS gibi web dilleri konusunda bilgi sahibiyim ve bu alanlarda kendimi geliştirmeye devam ediyorum.
 * **Ağ Sistemleri:** 📡 Ağ sistemleri ve bilgi iletişimi sistemleri hakkında bilgi sahibiyim ve bu konuda daha fazla bilgi edinmeyi hedefliyorum.
 
 ## Projelerim:
