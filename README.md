@@ -1,60 +1,43 @@
-#  Merhaba! Ben Ömer Faruk Çelik 👋
+# Merhaba, Ben Ömer Faruk Çelik 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWdiNHF2cXhodGlqYXg1NmNtZ21pbWtsZjRkaDN3ZDB2ZGtseHE1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2WuHHWbGt3fY4/giphy.gif" width="800" height="400">
+### 🚀 Otonom Sistemler & Gömülü Yazılım Mühendisi
+**Fizik Mühendisliği** temelli analitik bakış açısını, **Bilgisayar Mühendisliği** yetkinlikleriyle birleştirerek sualtı robotiği ve gömülü sistemler üzerine çözümler üretiyorum.
 
-Ben bir yazılım geliştiriciyim ve donanım, gömülü sistemler ve otonom robotlar alanlarına ilgi duyuyorum. 🚀 Her zaman yeni şeyler öğrenmek ve bu alanlarda kendimi geliştirmek için çaba sarf ediyorum. 
+---
 
-## Yeteneklerim:
+### 🛠️ Yetkinlikler & Teknoloji Yığını
 
-* **Programlama:** 💻  Python, Java, C/C++  gibi dilleri öğreniyorum ve bu dillerde kendimi sürekli geliştirmek için çalışıyorum. 
-* **Donanım:** 🔌  Raspberry Pi, Arduino, mikrodenetleyiciler ile çalışıyorum ve elektronik devre tasarımı hakkında bilgi sahibi olmaya çalışıyorum. 
-* **Gömülü Sistemler:** ⚙️ Yazılımı donanıma entegre ederek gömülü sistemler geliştirme konusunda deneyim kazanıyorum. 
-* **Robot Teknolojileri:** 🤖 ROS (Robot Operating System) kullanarak otonom robotlar için yazılımlar geliştirmeyi öğreniyorum.
-* **Su Altı Sistemleri:** 🌊  Su altı konumlama sistemleri alanında çalışıyor ve bu konuda araştırma yaparak bilgi sahibi olmaya çalışıyorum.
-* **Ağ Sistemleri:** 📡 Ağ sistemleri ve bilgi iletişimi sistemleri hakkında bilgi sahibiyim ve bu konuda daha fazla bilgi edinmeyi hedefliyorum.
+*   **Robotik & Simülasyon:** ROS (Robot Operating System), Gazebo, ArduSub, MavLink
+*   **Gömülü Sistemler:** STM32, Pixhawk, Raspberry Pi, UART/I2C/SPI
+*   **Yazılım Dilleri:** Python (İleri Seviye), C/C++, Bash
+*   **Algoritmalar:** A* Path Planning, Reinforcement Learning, PID Kontrol, Kalman Filtresi
+*   **Araçlar:** Docker, Git, Linux (Ubuntu), KiCad/Proteus
 
-## Projelerim:
+---
 
-Burada, birkaç kişisel projemi görebilirsiniz:
+### 🏆 Öne Çıkan Projeler
 
-* **[Proje 1 Adı](https://github.com/OmerFaruk-Celik/AMKS_AUV_ATILAY):** 
-    * [Su altı GPS sistemi]
-    
-* **[Proje 2 Adı](https://github.com/OmerFaruk-Celik/Python_OTO_COMMIT):** 
-    * [Python ile otomatik commit programı] 
+#### 1. [ATILAY - İnsansız Su Altı Aracı (TEKNOFEST)](https://github.com/OmerFaruk-Celik/AMKS_AUV_ATILAY)
+*Teknofest finalisti takımın Yazılım ve Elektronik Lideri.*
+*   **Odak:** Otonom görev icrası, görüntü işleme ile hedef tespiti ve gömülü sistem entegrasyonu.
+*   **Teknoloji:** Pixhawk, RPi 4, OpenCV, Python.
 
-* **[Proje 3 Adı](https://github.com/OmerFaruk-Celik/FU_BM_DUYURULAR_BOT):** 
-    * [Fırat Üniversitesi Bilgisayar Mühendisliği Duyuru Botu!]
+#### 2. [Çoklu Otonom Sualtı Sürüsü (Staj Projesi)](https://github.com/OmerFaruk-Celik/AMKS_AUV_ATILAY)
+*Dinamik ortamlarda hibrit otonom kontrol mimarisi.*
+*   **Odak:** A* (Global), Yerel Planlayıcı ve Reinforcement Learning algoritmalarının entegrasyonu ile 6 araçlı filo simülasyonu.
+*   **Teknoloji:** ROS, Gazebo, Python, Docker.
 
+#### 3. [Hibrit Sualtı Konumlandırma Modemi](https://github.com/OmerFaruk-Celik/AMKS_AUV_ATILAY)
+*GPS olmayan ortamlar için fizik tabanlı haberleşme çözümü.*
+*   **Odak:** Akustik ve Skaler Elektrik Alanı kullanarak menzil artırımı ve hassas konumlandırma.
+*   **Teknoloji:** STM32, Analog Filtre Tasarımı, Sinyal İşleme.
 
-## Tecrübelerim:
+---
 
-* **Teknofest Otonom Su Altı Yarışmaları:** 🏆  Teknofest otonom su altı yarışmaları konusunda 2 yıldır çalışıyorum ve bu deneyim sayesinde birçok şey öğrendim. 
-* **[Diğer Tecrübeleriniz]:**  [Örneğin, bir proje, staj veya gönüllülük deneyimi ekleyin.]
+### 📫 İletişim
 
-## Araştırma Alanlarım:
+*   **LinkedIn:** [linkedin.com/in/omer-faruk-celik](https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7elik-270b1314b/)
+*   **E-posta:** faruktrhakan@hotmail.com
 
-* **Su altı Konumlama Sistemleri:** 🧭  Otonom su altı araçlarının konumlandırılması ve navigasyonu için gelişmiş teknikler araştırıyorum.
-* **[Diğer Araştırma Alanlarınız]:**  [İlgi duyduğunuz diğer araştırma alanlarını ekleyin.]
-
-## Kullanılan Teknolojiler:
-
-* **ROS (Robot Operating System)**
-* **Python**
-* **C/C++**
-* **Java**
-* **Raspberry Pi**
-* **Arduino**
-* **Docker**
-* **Linux**
-
-## İletişim:
-
-Birlikte çalışmak veya yeni bir proje hakkında konuşmak isterseniz, lütfen bana ulaşmaktan çekinmeyin.
-
-**E-posta:** [baycelikomer@gmail.com]
-
-
-## **Yenilikçi Projeler İçin Hazırım!**
-
-İlginiz için teşekkür ederim. 😊
+---
+*Bu profil, savunma sanayii ve otonom sistemler alanında değer üretmek üzere hazırlanmıştır.*
