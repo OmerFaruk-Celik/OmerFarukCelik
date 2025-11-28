@@ -135,7 +135,9 @@ Model karşılaştırmaları
 ## 📬 İletişim
 
 📧 **E-posta:** faruktrhakan@hotmail.com  
-🐙 **GitHub:** https://github.com/OmerFaruk-Celik/OmerFarukCelik 
+
+🐙 **GitHub:** https://github.com/OmerFaruk-Celik/OmerFarukCelik/
+
 🔗 **LinkedIn:** https://www.linkedin.com/in/%C3%B6mer-faruk-%C3%A7elik-270b1314b/
 
 ---
