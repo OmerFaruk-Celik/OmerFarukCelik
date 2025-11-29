@@ -171,7 +171,48 @@ Model karşılaştırmaları
 👉 [Cilt Hastalığı Tanı ve Öneri Uygulaması5.pdf](./Cilt%20Hastalığı%20Tanı%20ve%20Öneri%20Mobil%20Uygulaması5.pdf)
 
 ---
+📦 TNC Group – Python / AutoCAD / Photoshop / Excel Staj Projeleri
 
+Bu bölüm, TNC Group şirketlerinde uzaktan tamamladığım 1 aylık Python – AutoCAD – Photoshop – Excel eğitim ve uygulama döneminde ortaya çıkan çalışmalarımı içerir.
+Hem yazılım hem tasarım tarafındaki yetkinliklerimi gösteren küçük ama etkili proje çıktılarıdır.
+
+<div align="center">
+🎨 Staj Proje Portföyü
+🟥 1) Python Kullanma Kılavuzu
+
+Python eğitim sürecinde hazırladığım kapsamlı kullanım dokümanı.
+
+📄 PDF:
+👉 PythonKullanmaKilavuzu.pdf
+
+🟦 2) Python To-Do List Uygulaması
+
+Görev ekleme – tamamlama – listeleme özelliklerine sahip Python mini uygulaması.
+
+🧩 Kod Dosyası:
+👉 PythonToDoList.py
+
+🟪 3) Excel Tabanlı Özgeçmiş Tasarımı
+
+Excel formatında hazırlanmış profesyonel CV.
+
+📊 Excel (XLSX):
+👉 OmerFarukCelik.xlsx
+
+🟧 4) Photoshop Poster Tasarımı — Spiderman
+
+Photoshop çalışması olarak hazırladığım poster tasarımı.
+Tam boyut için görsele tıklayabilirsiniz.
+
+<a href="./Ömer_Faruk_Çelik_Spiderman_Poster.png"> <img src="./Ömer_Faruk_Çelik_Spiderman_Poster.png" width="420px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /> </a>
+🟩 5) Genel PDF Portföy – TNC Staj Çalışmaları
+
+Staj boyunca ortaya çıkan bütün notlar, mini projeler ve uygulamaların toplu derlemesi.
+
+📄 PDF:
+👉 OmerFarukCelik.pdf
+
+</div>
 ## 📬 İletişim
 
 📧 **E-posta:** faruktrhakan@hotmail.com  
