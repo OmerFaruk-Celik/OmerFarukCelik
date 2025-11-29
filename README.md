@@ -201,10 +201,9 @@ Excel formatında hazırlanmış profesyonel CV.
 
 🟧 4) Photoshop Poster Tasarımı — Spiderman
 
-Photoshop çalışması olarak hazırladığım poster tasarımı.
-Tam boyut için görsele tıklayabilirsiniz.
+Photoshop çalışması olarak hazırladığım poster tasarımı (optimize edilmiş WEBP formatı).
 
-<a href="./Ömer_Faruk_Çelik_Spiderman_Poster.png"> <img src="./Ömer_Faruk_Çelik_Spiderman_Poster.png" width="420px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /> </a>
+<a href="./dosyalar/Spiderman.webp"> <img src="./dosyalar/Spiderman.webp" width="420px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /> </a>
 🟩 5) Genel PDF Portföy – TNC Staj Çalışmaları
 
 Staj boyunca ortaya çıkan bütün notlar, mini projeler ve uygulamaların toplu derlemesi.
