@@ -171,47 +171,31 @@ Model karşılaştırmaları
 👉 [Cilt Hastalığı Tanı ve Öneri Uygulaması5.pdf](./Cilt%20Hastalığı%20Tanı%20ve%20Öneri%20Mobil%20Uygulaması5.pdf)
 
 ---
-📦 TNC Group – Python / AutoCAD / Photoshop / Excel Staj Projeleri
+📦 TNC Group – Staj Çalışmaları
+🔹 1) Python Kullanma Kılavuzu
+<a href="./PythonKullanmaKilavuzu.pdf"> <img src="./AutoCAD.png" width="300px" /> </a>
 
-Bu bölüm, TNC Group şirketlerinde uzaktan tamamladığım 1 aylık Python – AutoCAD – Photoshop – Excel eğitim ve uygulama döneminde ortaya çıkan çalışmalarımı içerir.
-Hem yazılım hem tasarım tarafındaki yetkinliklerimi gösteren küçük ama etkili proje çıktılarıdır.
+📄 PDF: PythonKullanmaKilavuzu.pdf
 
-<div align="center">
-🎨 Staj Proje Portföyü
-🟥 1) Python Kullanma Kılavuzu
+🔹 2) Python To-Do List Uygulaması
+<a href="./PythonToDoList.py"> <img src="./Excel.png" width="300px" /> </a>
 
-Python eğitim sürecinde hazırladığım kapsamlı kullanım dokümanı.
+🧩 Python Script: PythonToDoList.py
 
-📄 PDF:
-👉 PythonKullanmaKilavuzu.pdf
+🔹 3) Excel Tabanlı Profesyonel CV
+<a href="./OmerFarukCelik.xlsx"> <img src="./Excel.png" width="300px" /> </a>
 
-🟦 2) Python To-Do List Uygulaması
+📊 Excel Dosyası: OmerFarukCelik.xlsx
 
-Görev ekleme – tamamlama – listeleme özelliklerine sahip Python mini uygulaması.
+🔹 4) Photoshop Poster Tasarımı — Spiderman
+<div align="center"> <a href="./Spiderman.webp"> <img src="./Spiderman.webp" width="400px" /> </a> </div>
 
-🧩 Kod Dosyası:
-👉 PythonToDoList.py
+🖼️ Görsel (WEBP): Spiderman.webp
 
-🟪 3) Excel Tabanlı Özgeçmiş Tasarımı
+🔹 5) Genel PDF Portföy – TNC Staj Çalışmaları
+<a href="./OmerFarukCelik.pdf"> <img src="./AutoCAD.png" width="300px" /> </a>
 
-Excel formatında hazırlanmış profesyonel CV.
-
-📊 Excel (XLSX):
-👉 OmerFarukCelik.xlsx
-
-🟧 4) Photoshop Poster Tasarımı — Spiderman
-
-Photoshop çalışması olarak hazırladığım poster tasarımı (optimize edilmiş WEBP formatı).
-
-<a href="./dosyalar/Spiderman.webp"> <img src="./dosyalar/Spiderman.webp" width="420px" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);" /> </a>
-🟩 5) Genel PDF Portföy – TNC Staj Çalışmaları
-
-Staj boyunca ortaya çıkan bütün notlar, mini projeler ve uygulamaların toplu derlemesi.
-
-📄 PDF:
-👉 OmerFarukCelik.pdf
-
-</div>
+📄 PDF: OmerFarukCelik.pdf
 ## 📬 İletişim
 
 📧 **E-posta:** faruktrhakan@hotmail.com  
